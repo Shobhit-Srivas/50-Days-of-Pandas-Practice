@@ -100,7 +100,7 @@ This repository helps you strengthen your Pandas skills through hands-on example
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/50-Days-of-Pandas-Practice.git
+git clone https://github.com/Shobhit-Srivas/50-Days-of-Pandas-Practice.git
 ```
 
 Navigate to the project directory:
